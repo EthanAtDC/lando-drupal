@@ -8,7 +8,7 @@ class HelloWorldController extends ControllerBase {
     public function build() {
         $build['content'] = [
             '#type' => 'item',
-            '#markup' => 'WOW WE DID IT',
+            '#markup' => 'Hello World',
         ];
         return $build;
     }
