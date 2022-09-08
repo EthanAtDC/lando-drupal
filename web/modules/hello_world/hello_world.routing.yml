@@ -1,5 +1,5 @@
 hello_world:
-  path: "/hello/world"
+  path: "/hello-world"
   defaults:
     _controller: '\Drupal\hello_world\Controller\HelloWorldController::build'
   requirements:
