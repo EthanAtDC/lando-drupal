@@ -1,6 +1,0 @@
-services:
-  test1.event_subscriber:
-    class: Drupal\test1\EventSubscriber\Test1Subscriber
-    arguments: ['@messenger']
-    tags:
-      - { name: event_subscriber }

@@ -1,8 +1,0 @@
-test1.example:
-  path: '/test1/example'
-  defaults:
-    _title: 'Example'
-    _controller: '\Drupal\test1\Controller\Test1Controller::build'
-  requirements:
-    _permission: 'access content'
-
