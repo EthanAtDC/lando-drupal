@@ -14,8 +14,3 @@ class HelloWorldController extends ControllerBase {
     }
 }
 
-
-// return array(
-//             '#title' => 'hello world',
-//             '#markup' => 'Some content here.'
-//         );
